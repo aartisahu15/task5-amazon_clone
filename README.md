@@ -1,4 +1,5 @@
 # Amazon Clone – E-commerce Website 
+website link - http://127.0.0.1:5500/Amazon%20Clone_files/index.html
 
 ## 📌 Project Overview
 This project is a **frontend Amazon-inspired E-commerce website clone** developed as part of **Internship Task 5**.  
